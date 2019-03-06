@@ -1,0 +1,26 @@
+Design bruger frontend på en hjemmeside:
+I denne task skal der laves et nyt projekt, hvor der skal laves en hjemmeside til bruger. Hjemmesiden skal indhold.
+•	Indkøbes kurve
+•	Profil side
+•	Registrering side
+•	Detaljeret oversigt over produkter 
+
+Det du skal fokuser på er design, som skal følge alle de andre design fra de andre projekter ind under Mercfood (android og IOS app). 
+Indkøbes kurve: Som i alle Web shops er der en indkøbes kurve hvor alle enes vare man vil købe er i. Man skal kun se i indkøbes kurven hvad vare man har lagt i den, hvor meget være vare koster og hvor meget det koster i alt. 
+Profil side: En side hvor man kan se sin profil og rediger den. 
+Registrering side: En side hvor man kan register en profil.
+Detaljeret oversigt over produkter: En side hvor man kan se alle produkter nemt. Man skal også kunne se alle produkternes pris, billede, beskrivelse og man skal kunne lægge et produkt i sin indkøbes kurve. 
+
+
+
+
+Facebook Login: VIRKER!
+
+
+- I header.php, viser den et billed af en kurv, det skal kun vises hvis brugeren er logget ind.
+
+
+
+
+
+Fejl:
