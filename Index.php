@@ -7,7 +7,7 @@
 
 <div class="row">
   <div class="col-3 menu"> 
-  	<h2 style="text-decoration: underline;"> Hvad er Mercfood?</h2>
+  	<h2 style="text-decoration: underline;"> Hvad er JS Webshop?</h2>
 
   	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet lobortis lectus, nec auctor nulla. Cras nec justo quis ante aliquet condimentum sed sit amet velit. Donec egestas vel metus sed dapibus. Fusce eget rhoncus tortor. Praesent dictum egestas dui vel hendrerit. Morbi eget pharetra ante. Ut quis magna massa. Sed fermentum porta vulputate. Aliquam dictum porttitor arcu non consectetur. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus gravida nisi sed ligula lobortis, vel ornare lacus accumsan. Pellentesque sagittis ultricies lacus. Fusce condimentum, elit at condimentum pretium, odio metus porta massa, ac ornare nisl dui et nulla. Aenean lorem mi, ullamcorper vitae placerat ut, ultricies sit amet nulla. Duis non turpis in purus interdum facilisis ut luctus tortor. </p>
 
