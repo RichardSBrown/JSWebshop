@@ -15,7 +15,7 @@
 	<div class="col-1">
 	</div>
 	<div class="col-10">
-		<center><h1 style="font-size: 72px"> MERCFOOD </h1></center>
+		<center><h1 style="font-size: 72px"> JS WEBSHOP </h1></center>
 	</div>
 	<div class="col-1">
 		<!-- Hvis brugeren er logget ind skal den vise dette billed, ellers skal der ikke være noget -->
